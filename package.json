@@ -1,0 +1,15 @@
+{
+  "name": "h-and-m_clone",
+  "version": "1.0.0",
+  "description": "H&M website clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pravesh Chourey",
+  "license": "ISC",
+  "dependencies": {
+    "react-hook-form": "^7.47.0",
+    "react-router-dom": "^6.16.0"
+  }
+}
